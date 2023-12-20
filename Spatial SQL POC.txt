@@ -1,0 +1,1 @@
+Spatial SQL Article : https://medium.com/@activeraju2108/geospatial-data-analysis-using-spatial-sql-e89a6bc2c8df
